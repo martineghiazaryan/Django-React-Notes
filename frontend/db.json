@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "body": "Todays Agenda\n\n- Walk Dog\n- Feed fish\n- Play basketball\n- Eat a salad\n- Drink coffee",
+      "updated": "2022-12-19T23:51:06.573Z"
+    },
+    {
+      "body": "note 1\n\n",
+      "updated": "2022-12-19T21:44:12.948Z",
+      "id": 2
+    },
+    {
+      "body": "note 2",
+      "updated": "2022-12-19T21:44:15.716Z",
+      "id": 3
+    }
+  ]
+}
